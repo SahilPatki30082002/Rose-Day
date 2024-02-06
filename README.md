@@ -1,2 +1,1 @@
-# Rose-Day-Special
-Rose Day Website
+# Rose-Day
