@@ -97,18 +97,18 @@ footer p {
   letter-spacing: 1px;
 }
 p span {
-  font-size: 30px;
+  font-size: 24px;
   font-weight: 600;
   text-shadow: 0 0 20px rgb(255, 255, 255);
   color: #800020;
 }
 p {
-  font-size: 22px;
+  font-size: 16px;
   font-family: cursive;
   font-weight: 540;
 }
 .ullu {
-  font-size: 25px;
+  font-size: 23px;
 
   text-shadow: 0 0 20px rgb(255, 255, 255);
 }
