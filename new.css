@@ -99,7 +99,7 @@ footer p {
 p span {
   font-size: 23px;
   font-weight: 600;
-  text-shadow: 0 0 20px rgb(255, 255, 255);
+/*   text-shadow: 0 0 20px rgb(255, 255, 255); */
   color: #fefefd;
 }
 p {
@@ -111,5 +111,5 @@ p {
 .ullu {
   font-size: 22px;
   color: #fefefd;
-  text-shadow: 0 0 20px rgb(255, 255, 255);
+/*   text-shadow: 0 0 20px rgb(255, 255, 255); */
 }
