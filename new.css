@@ -34,7 +34,8 @@ body {
 .postcard1 {
   width: 800px;
   height: 500px;
-  background: #254168;
+  background: #264296;
+  opacity: 0.2;
   position: absolute;
   left: 24%;
   -webkit-filter: blur(2px);
