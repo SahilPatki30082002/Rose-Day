@@ -34,7 +34,7 @@ body {
 .postcard1 {
   width: 800px;
   height: 500px;
-  background: #f594b862;
+  background: #254168;
   position: absolute;
   left: 24%;
   -webkit-filter: blur(2px);
@@ -100,15 +100,16 @@ p span {
   font-size: 23px;
   font-weight: 600;
   text-shadow: 0 0 20px rgb(255, 255, 255);
-  color: #800020;
+  color: #fefefd;
 }
 p {
   font-size: 19px;
   font-family: cursive;
   font-weight: 540;
+  color: #fefefd;
 }
 .ullu {
   font-size: 22px;
-
+  color: #fefefd;
   text-shadow: 0 0 20px rgb(255, 255, 255);
 }
